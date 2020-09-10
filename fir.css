@@ -5,16 +5,15 @@
 .container-fluid{
 	background-color: #ede4ed;
 }
-.two{
+/* .two{
 	background-color:peru;
 	font-size:30px;
-	
-	float:left;
-	height:250px;
-}
+	float:right;
+	height:250px; */
+/* } */
 .img-responsive{
-	background-color: red;
-	background-color:peru;
+	/* background-color: red; */
+	/* background-color:peru; */
 	float:left;
 }
 .one{
