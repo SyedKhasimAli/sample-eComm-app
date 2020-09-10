@@ -1,0 +1,12 @@
+.img-responsive{
+    text-align:center;
+}
+.One{
+    height:50px;
+    /* width:50%; */
+    float: left;
+    background-color:khaki;
+    margin-right:10px;
+    font-size:30px;
+    text-align:center;
+}
